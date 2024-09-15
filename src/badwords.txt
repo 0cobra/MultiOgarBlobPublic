@@ -2527,6 +2527,22 @@ Whóre
 ك،ْس
 ك،َ،َس
 ك،ًٌ.س
+نىيك
+نيىك
+أخت
+اخىت
+صرىمك
+ارىكب
+اركىب
+كى.ىسم
+ك.ىسم
+كى.سم
+مرعب الشيعه
+فحل الشيعه
+فحل ال
+فحل ام
+فحل أم
+فحل
 annenı
 annneni
 ann skm
@@ -2688,6 +2704,11 @@ oc sg
 oc pıc
 oc pic
 oc pİc
+pce bak
+pçe bak
+pç lan bu
+pçmsn?
+piçmisin?
 pİç
 0Ç
 OÇ
@@ -2783,6 +2804,8 @@ mal 0c
 0c mal
 tipini s
 tipinizi s
+tenno
+tennim
 yalama
 yalarım
 yalarun
@@ -2795,6 +2818,20 @@ yarraaa
 yarraaaa
 yarraamı
 yarragi
+yaraagim
+yaraagi
+yaraak
+yaarak
+yaaram
+yaarram
+yaarrak
+yaarrağ
+yaarraağ
+yaarrag
+yaaraak
+yaaraag
+yaaraam
+yaraam
 yarragimi
 yarragina
 yarragindan
@@ -3001,6 +3038,9 @@ Ṋ̴̆ĩ̴͝g̷̀͒g̶͚̑ë̵̉r̴̀̃
 ههىه
 ههى
 ههيه
+ه‍ه‍ه‍ه‍ه‍ه‍ه‍
+ه‍ه‍ه‍ه‍ه‍
+ه‍ه‍ه‍ه‍
 ہه
 هہ
 ہہہ
@@ -3061,6 +3101,19 @@ Ṋ̴̆ĩ̴͝g̷̀͒g̶͚̑ë̵̉r̴̀̃
 ࿐𒁃
 𒄦
 𒈙
+𒁏
+𒍜
+𒉸
+𒉹
+𒐹
+𒐱
+𒐪
+𒐩
+𒐧
+𒐨
+𒐥
+𒐦
+𒐤
 𒐫
 ꧃ 
 𒀰
